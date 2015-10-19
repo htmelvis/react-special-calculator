@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Webpack Starter
 ![alt tag](https://raw.githubusercontent.com/htmelvis/react-webpack-starter/master/public/assets/images/reactjs.png)
 A Simple jump off template for creating components with ReactJS and Webpack Dev Server.
@@ -21,3 +22,7 @@ A Simple jump off template for creating components with ReactJS and Webpack Dev 
 - Navigate  to ```http://127.0.0.1:8080/webpack-dev-server/```
 
 *Your changes in Sass, and JS will be hot loaded into the browser.
+=======
+# react-special-calculator
+Special Calculator Component for React with some extra features. Like live price and dynamic product details
+>>>>>>> db845651b913209700a1f485c2835c2f178cf97c
