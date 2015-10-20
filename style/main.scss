@@ -1,20 +1,10 @@
 @import "modules/global";
-
-//Styles only for demo
-h2 {
-  text-align: center;
+.half{
+  width: 50%;
 }
-.explain{
-  padding: 34px 0;
-  font-size: 1.2em;
-
+.columns{
+  float: left;
 }
-.logos{
-  width: 425px;
-  margin: 0 auto;
-  clear:both;
-  img{
-    float: left;
-  }
+.calculator{
+  width: 700px;
 }
-//Styles for demo

@@ -1,0 +1,60 @@
+{
+  "name": "Wall Mounted Loading Dock Safety Net",
+  "description": "Our patent pending Wall Mounted Loading Dock Safety Net protects your products and personnel from falls, collisions, and other various hazards related to loading dock doors. Designed with fast and easy installation, adjustment, teardown or stowing in mind. Properly installed Loading Dock Safety Nets do not impede loading dock door operation. One man installation is simple and can be accomplished in minutes. View the installation instructions here to see just how painless protecting your assets from harmful hazards and costly accidents can be.",
+  "types":[
+    {
+      "name": "Debris Barrier Net",
+      "variations": [
+        { "val": "4 x 6" ,
+          "code": "OHPW46-B",
+          "price": 550,
+          "items": [
+            "6-inch on center mesh",
+            "Snap Hooks",
+            "3 Foot Adjustment Straps",
+            "Mounting Brackets and Installation Hardware",
+            "2-inch Webbing top weight bearing strap"
+          ]
+        },
+        { "val": "4 x 8" ,
+          "price": 575,
+          "items": [
+            "6-inch on center mesh",
+            "Snap Hooks",
+            "3 Foot Adjustment Straps",
+            "Mounting Brackets and Installation Hardware",
+            "2-inch Webbing top weight bearing strap"
+          ]
+        }
+    ]
+    },
+    {
+      "name": "Standard Barrier Net",
+      "description": "Our patent pending Wall Mounted Loading Dock Safety Net protects your products and personnel from falls, collisions, and other various hazards related to loading dock doors. Designed with fast and easy installation, adjustment, teardown or stowing in mind. Properly installed Loading Dock Safety Nets do not impede loading dock door operation. One man installation is simple and can be accomplished in minutes. View the installation instructions here to see just how painless protecting your assets from harmful hazards and costly accidents can be.",
+      "variations": [
+        { "val": "4 x 6" ,
+          "code": "OHPW46-B",
+          "price": 550,
+          "items": [
+            "6-inch on center mesh",
+            "Snap Hooks",
+            "3 Foot Adjustment Straps",
+            "Mounting Brackets and Installation Hardware",
+            "2-inch Webbing top weight bearing strap"
+          ]
+        },
+        { "val": "4 x 8" ,
+          "code": "OHPW46-B",
+          "price": 575,
+          "items": [
+            "6-inch on center mesh",
+            "Snap Hooks",
+            "3 Foot Adjustment Straps",
+            "Mounting Brackets and Installation Hardware",
+            "2-inch Webbing top weight bearing strap"
+          ]
+        }
+      ]
+    }
+  ]
+}
